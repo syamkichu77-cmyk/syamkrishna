@@ -1,0 +1,1282 @@
+Feature,Importance
+duration_num,0.5851762836896411
+listed_in_Kids' TV,0.025007699587401132
+release_year,0.01986176855710383
+"listed_in_International TV Shows, TV Dramas",0.01558159827685107
+rating_R,0.015241295122257453
+"listed_in_International TV Shows, Romantic TV Shows, TV Dramas",0.01218491763229501
+country_South Korea,0.011848604954582813
+"listed_in_Kids' TV, TV Comedies",0.011584516178998932
+"listed_in_Crime TV Shows, International TV Shows, TV Dramas",0.010855335617583369
+listed_in_Docuseries,0.010525598253381617
+rating_PG-13,0.010311303213961396
+"listed_in_International TV Shows, Romantic TV Shows, TV Comedies",0.010023295623865749
+listed_in_Reality TV,0.009601134272465697
+"listed_in_Anime Series, International TV Shows",0.009081263506058949
+listed_in_TV Comedies,0.008243345289068362
+listed_in_Documentaries,0.007837421459987075
+listed_in_Stand-Up Comedy,0.007635174494529189
+country_India,0.0070935101344287614
+"listed_in_Dramas, International Movies",0.006141466558314564
+"listed_in_International TV Shows, Korean TV Shows, Romantic TV Shows",0.0060980169431497575
+"listed_in_Crime TV Shows, International TV Shows, Spanish-Language TV Shows",0.0056963286768720815
+country_Japan,0.005431987589748405
+listed_in_Children & Family Movies,0.0053024070433299285
+country_United Kingdom,0.005083002395574969
+"listed_in_Crime TV Shows, Docuseries",0.004611574253150926
+"listed_in_Dramas, Independent Movies, International Movies",0.0044319960865446305
+rating_TV-Y,0.004429294572288338
+rating_TV-Y7,0.004417263935480209
+"listed_in_Children & Family Movies, Comedies",0.004305160775489322
+listed_in_TV Dramas,0.004029552278628751
+"listed_in_Comedies, Dramas, International Movies",0.003966689863576783
+"listed_in_Docuseries, International TV Shows",0.0037398005294537666
+rating_PG,0.0037129926857367647
+"listed_in_International TV Shows, TV Comedies",0.003646018778547248
+"listed_in_International TV Shows, TV Comedies, TV Dramas",0.0033005492141500313
+"listed_in_International TV Shows, Reality TV",0.0032766975815043268
+"listed_in_Documentaries, International Movies",0.0032313424919034653
+"listed_in_Comedies, International Movies",0.003161348880366119
+country_Taiwan,0.002925530737213992
+"listed_in_Dramas, International Movies, Romantic Movies",0.002844385512574883
+"listed_in_Docuseries, Science & Nature TV",0.0028068807141984576
+"listed_in_TV Comedies, TV Dramas",0.00280370410294473
+rating_TV-MA,0.002779088080989803
+"listed_in_International TV Shows, Spanish-Language TV Shows, TV Dramas",0.002501587005898465
+"listed_in_Comedies, International Movies, Romantic Movies",0.002397003366538364
+"listed_in_British TV Shows, Docuseries, Science & Nature TV",0.00232569885580686
+"listed_in_Crime TV Shows, Docuseries, International TV Shows",0.0022786163437443197
+"listed_in_British TV Shows, International TV Shows, Reality TV",0.002273589783149312
+"listed_in_Action & Adventure, Anime Features, International Movies",0.0020529394791737997
+rating_TV-14,0.0019919505715012163
+"listed_in_International TV Shows, Romantic TV Shows, Spanish-Language TV Shows",0.001909625390311884
+"listed_in_Stand-Up Comedy & Talk Shows, TV Comedies",0.0018739703005232384
+"listed_in_Action & Adventure, Dramas, International Movies",0.001869397771499127
+"listed_in_British TV Shows, Crime TV Shows, International TV Shows",0.0018344927517973642
+"listed_in_British TV Shows, Docuseries, International TV Shows",0.0017680183966631913
+"listed_in_International TV Shows, TV Dramas, TV Mysteries",0.0017296778009185624
+"listed_in_Dramas, International Movies, Thrillers",0.001698791041063251
+"listed_in_Anime Series, Kids' TV",0.0015667529908130915
+listed_in_Dramas,0.001480321044938824
+"listed_in_International TV Shows, TV Action & Adventure, TV Dramas",0.001404723057414958
+"listed_in_Crime TV Shows, International TV Shows, TV Action & Adventure",0.001397705509393004
+"listed_in_Docuseries, International TV Shows, Science & Nature TV",0.0013671126737918164
+"listed_in_Comedies, Dramas, Independent Movies",0.0013615803264220093
+"listed_in_International TV Shows, Spanish-Language TV Shows, TV Comedies",0.00132392034393277
+"listed_in_Crime TV Shows, TV Dramas, TV Mysteries",0.001280379121179109
+"listed_in_Action & Adventure, International Movies",0.0012689524647931656
+listed_in_TV Shows,0.0011998626258068693
+rating_TV-PG,0.001179172571666195
+"listed_in_British TV Shows, Crime TV Shows, Docuseries",0.001153176671249734
+"listed_in_Documentaries, Music & Musicals",0.0011422829025580367
+country_United States,0.001132944299188231
+"listed_in_Crime TV Shows, TV Dramas",0.001054879555045986
+"listed_in_British TV Shows, International TV Shows, TV Comedies",0.00104243256776336
+"listed_in_International TV Shows, Korean TV Shows, TV Dramas",0.0010062702805098973
+"listed_in_Docuseries, Reality TV",0.0010042195952855975
+"listed_in_Crime TV Shows, International TV Shows, Korean TV Shows",0.0009844161670233267
+"listed_in_Kids' TV, Korean TV Shows",0.0009797660969434014
+listed_in_Movies,0.0009760090490364055
+"listed_in_British TV Shows, Kids' TV",0.0009565648399786628
+"listed_in_International Movies, Thrillers",0.0009265199873317928
+"listed_in_International TV Shows, TV Dramas, TV Horror",0.0009197897320816698
+listed_in_Comedies,0.0008730976957300158
+"listed_in_Romantic TV Shows, TV Dramas",0.0008150280838367925
+"listed_in_British TV Shows, Docuseries",0.0008126083541415
+listed_in_Action & Adventure,0.0007368722207553082
+"listed_in_Kids' TV, TV Action & Adventure, TV Sci-Fi & Fantasy",0.0007096261089008883
+"listed_in_Anime Series, Crime TV Shows, International TV Shows",0.0006862956010004096
+rating_TV-G,0.0006842624686452702
+"listed_in_Comedies, Romantic Movies",0.0006809626321833004
+"listed_in_Documentaries, Sports Movies",0.0006757577310967828
+country_China,0.000671167737667727
+"listed_in_Horror Movies, International Movies",0.0006671072007965321
+"listed_in_International TV Shows, TV Dramas, Teen TV Shows",0.0006372728687487359
+"listed_in_Horror Movies, International Movies, Thrillers",0.0006355113259304792
+"listed_in_British TV Shows, TV Comedies",0.000610652493292741
+listed_in_Thrillers,0.0005823605798057548
+"listed_in_Documentaries, International Movies, Sports Movies",0.0005711691956318045
+"listed_in_Documentaries, International Movies, Music & Musicals",0.0005627447948376844
+"listed_in_Action & Adventure, Comedies, International Movies",0.0005554469287006156
+listed_in_Stand-Up Comedy & Talk Shows,0.0005372857066831187
+"listed_in_Reality TV, Romantic TV Shows",0.0005243523962476141
+"listed_in_Dramas, Independent Movies",0.0005235411055311889
+"listed_in_Anime Series, International TV Shows, Teen TV Shows",0.0005066871554800194
+"listed_in_Crime TV Shows, TV Dramas, TV Thrillers",0.0005000423545990205
+"listed_in_Crime TV Shows, TV Action & Adventure, TV Dramas",0.0004814922965702283
+country_Singapore,0.0004731367900084132
+"listed_in_International TV Shows, Reality TV, Spanish-Language TV Shows",0.0004618779750920919
+country_Nigeria,0.00046116503965851153
+"listed_in_TV Action & Adventure, TV Dramas, TV Sci-Fi & Fantasy",0.00045185110924266404
+"listed_in_Classic & Cult TV, TV Comedies",0.0004492598092143575
+"listed_in_British TV Shows, International TV Shows, TV Dramas",0.00043407670113670223
+country_Australia,0.0004277100495238954
+country_Philippines,0.00042420620524872253
+"listed_in_TV Comedies, TV Dramas, Teen TV Shows",0.00042073196265035546
+"listed_in_TV Dramas, TV Horror, TV Mysteries",0.00041073007785618536
+"listed_in_International TV Shows, TV Horror, TV Mysteries",0.0004070168810651712
+"listed_in_Crime TV Shows, TV Comedies, TV Dramas",0.00040670301736600817
+"listed_in_International TV Shows, Stand-Up Comedy & Talk Shows, TV Comedies",0.0004048426824232681
+"listed_in_International TV Shows, Korean TV Shows, TV Comedies",0.00040240029139500017
+"listed_in_TV Action & Adventure, TV Sci-Fi & Fantasy",0.00038605532240753925
+"listed_in_Crime TV Shows, International TV Shows, Romantic TV Shows",0.00038525518619499923
+"listed_in_International TV Shows, TV Dramas, TV Thrillers",0.0003821714283103763
+"listed_in_British TV Shows, Reality TV",0.0003746803234867405
+"listed_in_Anime Series, International TV Shows, Romantic TV Shows",0.00037271852083877165
+country_Colombia,0.00037203056476412915
+"listed_in_Horror Movies, Thrillers",0.000358224119541942
+"listed_in_Children & Family Movies, Comedies, Music & Musicals",0.00035778270400325604
+country_Russia,0.0003567772049486843
+"listed_in_Romantic TV Shows, TV Comedies, TV Dramas",0.00035629098265715724
+"listed_in_International TV Shows, Reality TV, Romantic TV Shows",0.00035430795733996327
+"listed_in_British TV Shows, Kids' TV, TV Comedies",0.00034578209958434825
+country_Indonesia,0.00034257262175273434
+country_Canada,0.0003396457946462008
+listed_in_Horror Movies,0.0003301980675028084
+"listed_in_Children & Family Movies, Dramas",0.000327094223822384
+"listed_in_Anime Features, Children & Family Movies",0.000319410382684169
+"listed_in_International TV Shows, TV Horror, TV Thrillers",0.00031199931084162694
+"listed_in_Crime TV Shows, International TV Shows, TV Comedies",0.0003061935468018084
+"listed_in_TV Dramas, Teen TV Shows",0.0003005469104087059
+"listed_in_Classic & Cult TV, TV Action & Adventure, TV Horror",0.00029767351239951944
+"listed_in_Comedies, International Movies, Music & Musicals",0.00029731620810413364
+country_Egypt,0.00028850653841193294
+"listed_in_Classic & Cult TV, Crime TV Shows, International TV Shows",0.00028223075819884216
+"listed_in_TV Action & Adventure, TV Comedies, TV Sci-Fi & Fantasy",0.00028083527726701073
+country_France,0.0002736959031520814
+"listed_in_Dramas, International Movies, Music & Musicals",0.00027240042433244674
+"listed_in_TV Comedies, Teen TV Shows",0.00026530618764298767
+"listed_in_Docuseries, International TV Shows, Spanish-Language TV Shows",0.0002645917308011919
+rating_NR,0.00026322313057209007
+"listed_in_Kids' TV, TV Action & Adventure, TV Comedies",0.0002612392392898607
+listed_in_Anime Series,0.000258445076975007
+"country_United States, Canada",0.00025350370379393543
+"listed_in_Children & Family Movies, Sci-Fi & Fantasy",0.0002487309174576755
+country_Mexico,0.0002397280800682027
+"listed_in_Kids' TV, Spanish-Language TV Shows",0.00023514001553704642
+"listed_in_British TV Shows, International TV Shows, Romantic TV Shows",0.00023081629824881855
+"listed_in_Children & Family Movies, Music & Musicals",0.00022824848301188726
+"listed_in_Dramas, International Movies, LGBTQ Movies",0.00022585938038832633
+"listed_in_TV Horror, TV Mysteries, TV Thrillers",0.0002236352205048201
+"listed_in_Documentaries, LGBTQ Movies",0.00022332673623144615
+rating_G,0.00022282924595144995
+"listed_in_International TV Shows, TV Action & Adventure, TV Sci-Fi & Fantasy",0.00020713452342659494
+"listed_in_Dramas, Thrillers",0.00020634775873890133
+"listed_in_Reality TV, Teen TV Shows",0.0002057978227437344
+"listed_in_British TV Shows, Crime TV Shows, TV Dramas",0.00020321709688747756
+"listed_in_International Movies, Music & Musicals",0.0001998524091067365
+"listed_in_TV Dramas, TV Mysteries, TV Sci-Fi & Fantasy",0.00019652874117542357
+"listed_in_Romantic TV Shows, TV Comedies",0.000188818099782742
+"listed_in_International TV Shows, TV Dramas, TV Sci-Fi & Fantasy",0.00018762564546027732
+"listed_in_Anime Series, Romantic TV Shows, Teen TV Shows",0.00018644327868324378
+"listed_in_Crime TV Shows, TV Action & Adventure, TV Comedies",0.00018292968086019976
+"listed_in_Crime TV Shows, Docuseries, TV Mysteries",0.00018223563708051559
+"listed_in_Action & Adventure, International Movies, Sci-Fi & Fantasy",0.00018071179523895098
+listed_in_International TV Shows,0.00016376856452514327
+"listed_in_Docuseries, Reality TV, Science & Nature TV",0.00016328944161077958
+"listed_in_International TV Shows, Stand-Up Comedy & Talk Shows",0.0001626432320999462
+"listed_in_International TV Shows, Korean TV Shows, TV Action & Adventure",0.00015968405350950496
+"listed_in_Action & Adventure, Comedies",0.00015636801806555707
+country_Brazil,0.00015507511367766292
+"listed_in_Reality TV, TV Comedies",0.00015439023129003198
+"listed_in_Kids' TV, TV Thrillers",0.00015245571907375043
+"listed_in_Dramas, Independent Movies, LGBTQ Movies",0.0001497563414278746
+"listed_in_International TV Shows, Romantic TV Shows, Teen TV Shows",0.00014596470914263567
+"listed_in_Kids' TV, TV Comedies, TV Dramas",0.00014584935478795109
+"listed_in_Kids' TV, Korean TV Shows, TV Comedies",0.00014472319358545155
+"listed_in_TV Horror, TV Mysteries, TV Sci-Fi & Fantasy",0.00014229753684038372
+country_Belgium,0.00014207804370193188
+"listed_in_TV Dramas, TV Mysteries, TV Thrillers",0.00014049507581860818
+country_Argentina,0.00013963303042185954
+country_Turkey,0.00013758449275179664
+country_Spain,0.00013713605294191859
+"country_United Kingdom, United States",0.00013218541910290147
+"listed_in_Anime Series, International TV Shows, TV Horror",0.00013113171765871616
+"listed_in_International TV Shows, Romantic TV Shows, TV Action & Adventure",0.00012601017656057784
+"listed_in_Kids' TV, TV Dramas",0.00011979115335642407
+"listed_in_Crime TV Shows, Spanish-Language TV Shows, TV Action & Adventure",0.00011954586944346386
+"listed_in_TV Dramas, TV Thrillers",0.00011881096945775758
+"listed_in_Kids' TV, TV Comedies, TV Sci-Fi & Fantasy",0.00011878034400191659
+"listed_in_International TV Shows, Korean TV Shows, Stand-Up Comedy & Talk Shows",0.00011688765040580889
+"listed_in_Action & Adventure, Anime Features, Sci-Fi & Fantasy",0.00011606684561965658
+"country_United States, United Kingdom",0.00011580286839368091
+country_Hong Kong,0.0001148681462899105
+"listed_in_Action & Adventure, Sci-Fi & Fantasy",0.00011480678556705758
+country_Netherlands,0.00011404715704141202
+"listed_in_Horror Movies, Independent Movies, International Movies",0.00011268437173887621
+"listed_in_British TV Shows, Classic & Cult TV, International TV Shows",0.00011207222595081086
+"country_United States, Japan",0.00011028779364009528
+"country_Colombia, Mexico, United States",0.0001083943954322828
+country_Italy,0.00010826158715068093
+"listed_in_International TV Shows, Spanish-Language TV Shows, TV Action & Adventure",0.00010755610666118384
+"listed_in_Crime TV Shows, TV Action & Adventure",0.00010739847590557174
+"listed_in_Docuseries, Stand-Up Comedy & Talk Shows",0.00010458157838742905
+"listed_in_Romantic TV Shows, TV Dramas, Teen TV Shows",0.00010426820355545698
+"listed_in_Anime Series, Romantic TV Shows",0.00010260645629425123
+"listed_in_British TV Shows, Classic & Cult TV, TV Comedies",0.00010211981387201728
+"listed_in_Dramas, Romantic Movies",0.0001013709890881357
+"listed_in_Anime Series, International TV Shows, TV Thrillers",9.879256607669198e-05
+"listed_in_Comedies, Dramas",9.696804423838087e-05
+country_Germany,9.68331603462487e-05
+"listed_in_Children & Family Movies, Dramas, Sports Movies",9.553228336935328e-05
+"listed_in_Classic & Cult TV, TV Action & Adventure, TV Sci-Fi & Fantasy",9.453295428167657e-05
+"listed_in_Kids' TV, TV Dramas, Teen TV Shows",9.166680246028153e-05
+"listed_in_International Movies, Sci-Fi & Fantasy, Thrillers",9.14466935214143e-05
+"listed_in_Docuseries, International TV Shows, Reality TV",9.060278590550915e-05
+"listed_in_TV Comedies, TV Sci-Fi & Fantasy",9.01654751791768e-05
+"listed_in_International TV Shows, TV Action & Adventure, TV Comedies",8.806522565243083e-05
+"listed_in_Children & Family Movies, Comedies, Dramas",8.646799626876635e-05
+country_Norway,8.524743187520348e-05
+"listed_in_International TV Shows, Korean TV Shows, Reality TV",8.44875455764675e-05
+"country_France, Belgium",8.233304384093892e-05
+country_Thailand,8.219440707926193e-05
+"listed_in_International TV Shows, TV Comedies, TV Sci-Fi & Fantasy",8.19339956916817e-05
+"listed_in_Action & Adventure, Comedies, Dramas",8.06417737773884e-05
+"listed_in_International Movies, Romantic Movies",8.00744007966566e-05
+"listed_in_Docuseries, TV Comedies",7.991800853861151e-05
+"listed_in_Dramas, Independent Movies, Romantic Movies",7.936518716266435e-05
+"listed_in_International Movies, Sci-Fi & Fantasy",7.87969944670385e-05
+"country_Spain, United Kingdom",7.780089949276747e-05
+listed_in_Music & Musicals,7.702977417911663e-05
+"listed_in_Action & Adventure, Horror Movies, International Movies",7.658860398521584e-05
+"listed_in_British TV Shows, Reality TV, Romantic TV Shows",7.416017813999068e-05
+"listed_in_Anime Series, Teen TV Shows",7.41452898021672e-05
+"listed_in_Comedies, Independent Movies, International Movies",7.345427391868413e-05
+"listed_in_British TV Shows, International TV Shows, TV Action & Adventure",7.344312470039416e-05
+country_Sweden,7.32419393937503e-05
+"country_Canada, United States",7.266628716001411e-05
+"listed_in_Horror Movies, Independent Movies",7.172121138865163e-05
+"listed_in_Kids' TV, Spanish-Language TV Shows, Teen TV Shows",7.168886397037118e-05
+"listed_in_Anime Features, International Movies, Romantic Movies",7.086711329153553e-05
+"country_United Kingdom, Ireland, United States",7.084179397932388e-05
+"listed_in_Docuseries, TV Dramas",7.043331324095114e-05
+"listed_in_Children & Family Movies, Comedies, Romantic Movies",7.035554634130262e-05
+"listed_in_British TV Shows, Romantic TV Shows, TV Dramas",6.953647298739897e-05
+"listed_in_Classic & Cult TV, TV Action & Adventure, TV Dramas",6.888616975990693e-05
+"listed_in_Music & Musicals, Stand-Up Comedy",6.634661981158914e-05
+"listed_in_Dramas, Independent Movies, Music & Musicals",6.624476455098727e-05
+"country_Canada, Germany, South Africa",6.585728550614416e-05
+"listed_in_International TV Shows, Reality TV, TV Comedies",6.517757825624974e-05
+"country_China, United Kingdom",6.437490671421627e-05
+"listed_in_Action & Adventure, Dramas",6.392103804948099e-05
+"listed_in_Dramas, Independent Movies, Thrillers",6.371062327477817e-05
+"listed_in_TV Comedies, TV Mysteries",6.30248421585497e-05
+"listed_in_Docuseries, Science & Nature TV, TV Dramas",6.283219039196121e-05
+"listed_in_Documentaries, Faith & Spirituality",6.2723507691299e-05
+"listed_in_Comedies, International Movies, LGBTQ Movies",6.225949375874601e-05
+"country_Canada, United States, France",6.209470701484175e-05
+"listed_in_Dramas, International Movies, Sports Movies",6.17858818444435e-05
+"listed_in_Dramas, International Movies, Sci-Fi & Fantasy",6.076203774031608e-05
+"country_United States, Mexico",6.044304054006143e-05
+"listed_in_Classic & Cult TV, Kids' TV, TV Action & Adventure",5.942817600349352e-05
+"listed_in_Classic & Cult TV, Kids' TV, TV Comedies",5.900883086189012e-05
+"listed_in_Crime TV Shows, International TV Shows, TV Sci-Fi & Fantasy",5.847590148910922e-05
+country_Israel,5.839633965553581e-05
+"listed_in_Children & Family Movies, Sports Movies",5.834635221422711e-05
+"listed_in_TV Dramas, TV Sci-Fi & Fantasy",5.828692473871057e-05
+"listed_in_TV Action & Adventure, TV Comedies, TV Horror",5.7738455401976785e-05
+"listed_in_Comedies, Independent Movies",5.769241672200684e-05
+country_Ukraine,5.6467191542270367e-05
+"listed_in_TV Action & Adventure, TV Dramas",5.6353889695720383e-05
+"listed_in_Children & Family Movies, Comedies, LGBTQ Movies",5.624389403582795e-05
+"listed_in_International TV Shows, TV Action & Adventure, TV Horror",5.611302581267948e-05
+country_Lebanon,5.609149023160895e-05
+country_Malaysia,5.6037777501600434e-05
+"listed_in_International Movies, Romantic Movies, Sci-Fi & Fantasy",5.5548887817426615e-05
+"listed_in_Romantic TV Shows, TV Dramas, TV Sci-Fi & Fantasy",5.5072830905650833e-05
+"listed_in_Crime TV Shows, TV Action & Adventure, TV Sci-Fi & Fantasy",5.5024944644763874e-05
+"listed_in_Spanish-Language TV Shows, TV Dramas",5.479988375500155e-05
+"listed_in_Crime TV Shows, TV Comedies",5.409641840391207e-05
+"listed_in_Independent Movies, International Movies, Thrillers",5.344745035918789e-05
+"listed_in_Crime TV Shows, TV Dramas, TV Horror",5.313878965653e-05
+"listed_in_Classic & Cult TV, TV Horror, TV Mysteries",5.222638931636354e-05
+"country_United States, Colombia, Mexico",5.121403247487445e-05
+"listed_in_Docuseries, Science & Nature TV, TV Comedies",5.093382538075551e-05
+"country_United Kingdom, Finland, Germany, United States, Australia, Japan, France, Ireland",5.082909814019186e-05
+"listed_in_Documentaries, Dramas, International Movies",5.0511994465281836e-05
+"listed_in_TV Sci-Fi & Fantasy, TV Thrillers",5.036992260642107e-05
+"listed_in_Kids' TV, TV Action & Adventure",5.013869288355955e-05
+"country_United States, France, Japan",4.992889520700175e-05
+"listed_in_Kids' TV, TV Comedies, Teen TV Shows",4.982412237547654e-05
+"listed_in_British TV Shows, International TV Shows, Stand-Up Comedy & Talk Shows",4.982004998190335e-05
+"listed_in_International TV Shows, Spanish-Language TV Shows, TV Horror",4.957176812830253e-05
+"listed_in_Anime Features, Children & Family Movies, International Movies",4.944723695240275e-05
+"listed_in_British TV Shows, Kids' TV, TV Dramas",4.893561043433942e-05
+country_South Africa,4.879480376306316e-05
+"listed_in_Dramas, Sports Movies",4.855764129146557e-05
+"listed_in_Reality TV, TV Comedies, TV Horror",4.852545421282009e-05
+"listed_in_Crime TV Shows, Docuseries, Science & Nature TV",4.8386351069342075e-05
+"country_Australia, New Zealand, United States",4.746919424099032e-05
+"listed_in_Classic & Cult TV, Kids' TV, Spanish-Language TV Shows",4.7276297829561766e-05
+"listed_in_Documentaries, International Movies, LGBTQ Movies",4.643729463724279e-05
+"listed_in_Independent Movies, Thrillers",4.620940435598949e-05
+"country_Mexico, United States",4.603711255940828e-05
+"country_Japan, United States",4.526466245968635e-05
+"country_United States, South Korea, China",4.4969276140309094e-05
+"listed_in_Reality TV, Science & Nature TV",4.486416208118781e-05
+"listed_in_British TV Shows, Docuseries, TV Comedies",4.451200335190077e-05
+"country_Australia, Germany",4.3699177246966436e-05
+"country_United Kingdom, West Germany",4.342675951751893e-05
+"listed_in_Romantic TV Shows, Teen TV Shows",4.294968425363645e-05
+"listed_in_Children & Family Movies, Dramas, Romantic Movies",4.253495010058793e-05
+"listed_in_Classic Movies, Documentaries",4.153705651280022e-05
+listed_in_TV Action & Adventure,4.1501927221839295e-05
+"listed_in_Children & Family Movies, Dramas, International Movies",4.1415710817587607e-05
+listed_in_International Movies,4.137561040577099e-05
+"listed_in_Comedies, Horror Movies, International Movies",4.1364129694947516e-05
+"listed_in_International TV Shows, Reality TV, TV Action & Adventure",4.123363501813041e-05
+"listed_in_Action & Adventure, Independent Movies, International Movies",4.0948321719777e-05
+"listed_in_Kids' TV, TV Action & Adventure, TV Dramas",4.0678372933574016e-05
+"listed_in_Comedies, Documentaries",4.058952426976906e-05
+listed_in_Sci-Fi & Fantasy,4.004071076678058e-05
+"listed_in_International TV Shows, TV Mysteries, TV Thrillers",3.964329368572292e-05
+"country_Ireland, United Kingdom, United States",3.954666139255485e-05
+"listed_in_Crime TV Shows, Kids' TV, TV Comedies",3.945130017890667e-05
+"country_Japan, Canada, United States",3.9409725039309476e-05
+"listed_in_Action & Adventure, Dramas, Independent Movies",3.8471300276668444e-05
+"listed_in_Crime TV Shows, Spanish-Language TV Shows, TV Dramas",3.8439990361767146e-05
+country_New Zealand,3.817973530472269e-05
+"listed_in_Romantic TV Shows, Spanish-Language TV Shows, TV Comedies",3.7607789446293744e-05
+"listed_in_Docuseries, Spanish-Language TV Shows",3.719083589712394e-05
+"listed_in_Anime Features, Music & Musicals, Sci-Fi & Fantasy",3.710564619588082e-05
+"country_Canada, France",3.692908104980163e-05
+"listed_in_Reality TV, TV Action & Adventure, TV Mysteries",3.668175644966035e-05
+"listed_in_Horror Movies, Independent Movies, Thrillers",3.653371588230675e-05
+"listed_in_TV Comedies, TV Sci-Fi & Fantasy, Teen TV Shows",3.6533488450149364e-05
+"listed_in_Kids' TV, Reality TV, TV Dramas",3.6367685883129324e-05
+"listed_in_Dramas, Faith & Spirituality",3.619462915076766e-05
+"listed_in_Docuseries, Kids' TV, Science & Nature TV",3.603492894937912e-05
+"listed_in_Children & Family Movies, Dramas, Faith & Spirituality",3.5832601292034655e-05
+"listed_in_Children & Family Movies, Documentaries",3.5755681205716644e-05
+"country_Japan, Canada",3.57535406457308e-05
+"listed_in_Reality TV, Science & Nature TV, TV Action & Adventure",3.5700088149543776e-05
+"listed_in_British TV Shows, TV Comedies, TV Dramas",3.471448922694894e-05
+"listed_in_British TV Shows, Docuseries, Reality TV",3.467285929600422e-05
+"country_United States, Czech Republic",3.461464502778544e-05
+"listed_in_Anime Series, Stand-Up Comedy & Talk Shows",3.438869782065373e-05
+"listed_in_Anime Features, Romantic Movies",3.407507225563728e-05
+country_Belarus,3.405697053519992e-05
+country_Poland,3.401906735794818e-05
+"listed_in_Stand-Up Comedy & Talk Shows, TV Mysteries, TV Sci-Fi & Fantasy",3.39595493647461e-05
+"listed_in_Children & Family Movies, Documentaries, International Movies",3.374568631665985e-05
+country_Denmark,3.362288316515445e-05
+"country_Ireland, Canada, United States, United Kingdom",3.357383141384293e-05
+"listed_in_British TV Shows, TV Dramas, TV Sci-Fi & Fantasy",3.3309945382802874e-05
+"listed_in_Action & Adventure, Anime Features, Children & Family Movies",3.305527820408385e-05
+"country_United Kingdom, Singapore",3.2595519653423254e-05
+"country_Canada, United Kingdom",3.229208378435953e-05
+"listed_in_International TV Shows, Korean TV Shows, TV Horror",3.134219887238457e-05
+"listed_in_Horror Movies, Sci-Fi & Fantasy",3.0889567659149994e-05
+"listed_in_Dramas, Sci-Fi & Fantasy, Thrillers",3.064916861014615e-05
+"listed_in_Action & Adventure, Independent Movies, Sci-Fi & Fantasy",3.052900954529522e-05
+"listed_in_Anime Features, International Movies, Sci-Fi & Fantasy",3.019229881006479e-05
+"listed_in_TV Action & Adventure, TV Mysteries, TV Sci-Fi & Fantasy",3.0137071537696976e-05
+"country_Italy, Brazil, Greece",2.9864601431414075e-05
+"listed_in_Crime TV Shows, Kids' TV",2.9642886017433976e-05
+"listed_in_TV Action & Adventure, TV Dramas, TV Mysteries",2.9477195976782775e-05
+"listed_in_Docuseries, Science & Nature TV, TV Action & Adventure",2.946301646206625e-05
+"country_Norway, United States",2.9387936472954635e-05
+"country_Canada, United States, Cayman Islands",2.8969336918233445e-05
+"listed_in_Romantic TV Shows, Spanish-Language TV Shows, TV Dramas",2.8948150581743727e-05
+"country_Israel, United States",2.8515267920612857e-05
+"country_United States, South Korea",2.849793414745365e-05
+"listed_in_Romantic TV Shows, TV Action & Adventure, TV Dramas",2.8477326042423442e-05
+"country_United States, Hungary, Ireland, Canada",2.8243824183713272e-05
+"country_Ireland, United States, United Kingdom",2.812828426354998e-05
+"listed_in_Action & Adventure, Anime Features, Horror Movies",2.7963572534930167e-05
+country_Pakistan,2.7727716811908723e-05
+country_Cyprus,2.769659284109999e-05
+"country_France, United States, Canada",2.755804484792967e-05
+"listed_in_Action & Adventure, Comedies, Independent Movies",2.7473247799586087e-05
+"listed_in_TV Dramas, TV Sci-Fi & Fantasy, TV Thrillers",2.7300860054771338e-05
+country_Chile,2.728543614810676e-05
+"country_France, South Korea, Japan, United States",2.7055034773741528e-05
+"listed_in_British TV Shows, TV Horror, TV Thrillers",2.676255126137732e-05
+"country_United States, Kazakhstan",2.644944384922075e-05
+"country_United States, Ireland",2.6274067975884195e-05
+"country_United States, Israel, Italy, South Africa",2.615311569717914e-05
+"country_France, Canada",2.6110257570194224e-05
+"country_Germany, France, Russia",2.5693123738060637e-05
+"listed_in_TV Horror, Teen TV Shows",2.564247362222442e-05
+"country_Australia, Canada",2.5372701854417402e-05
+"listed_in_Comedies, Dramas, Romantic Movies",2.534124166797816e-05
+"listed_in_Comedies, International Movies, Thrillers",2.5289369122078495e-05
+"country_United Kingdom, Spain",2.5175799314446983e-05
+"listed_in_Anime Series, Crime TV Shows",2.4837683604416292e-05
+"listed_in_Comedies, Independent Movies, Romantic Movies",2.4770458416072427e-05
+"country_Lebanon, Syria",2.4631207625272486e-05
+"country_Australia, United States",2.4464129994413764e-05
+"listed_in_International TV Shows, Spanish-Language TV Shows, Stand-Up Comedy & Talk Shows",2.4209543386137455e-05
+"listed_in_Dramas, LGBTQ Movies",2.3416039483646937e-05
+"country_South Korea, Canada, United States, China",2.3054566302001684e-05
+"listed_in_British TV Shows, Classic & Cult TV, Kids' TV",2.265728932874736e-05
+"listed_in_TV Comedies, TV Dramas, TV Mysteries",2.2556372174813333e-05
+"listed_in_Dramas, Faith & Spirituality, International Movies",2.2466666386711005e-05
+"country_Canada, United Kingdom, United States",2.211371359364003e-05
+"listed_in_Anime Features, Music & Musicals",2.1966286738486324e-05
+"country_United Kingdom, Canada",2.1931326676309407e-05
+"country_Australia, New Zealand",2.1809796506409562e-05
+"listed_in_Comedies, Cult Movies, Independent Movies",2.1737027737703406e-05
+"country_United States, France",2.1674398596293958e-05
+"listed_in_Anime Series, Crime TV Shows, TV Thrillers",2.149921468785839e-05
+"listed_in_Comedies, Independent Movies, LGBTQ Movies",2.1438455295858876e-05
+"country_United Kingdom, South Africa, Australia, United States",2.1386841992305358e-05
+"listed_in_Action & Adventure, Children & Family Movies, Comedies",2.1287593879981235e-05
+"listed_in_TV Dramas, TV Sci-Fi & Fantasy, Teen TV Shows",2.095470988594289e-05
+"listed_in_Dramas, Romantic Movies, Thrillers",2.090910092637129e-05
+"country_Malaysia, Singapore, Hong Kong",2.081132043757653e-05
+"listed_in_Action & Adventure, International Movies, Romantic Movies",2.0524158298872825e-05
+"listed_in_International TV Shows, Romantic TV Shows",2.0427520477090317e-05
+listed_in_Anime Features,2.0354304655298725e-05
+"country_South Korea, United States",2.0202920108965917e-05
+"country_Denmark, United States",1.9574510973135134e-05
+"country_Ireland, Canada",1.948549471432752e-05
+"country_France, United Kingdom",1.9217170627978712e-05
+"listed_in_Classic & Cult TV, TV Dramas, TV Sci-Fi & Fantasy",1.9055997087932493e-05
+"country_United States, Brazil, South Korea, Mexico, Japan, Germany",1.8757463628667657e-05
+country_United Arab Emirates,1.8538031589712746e-05
+country_Saudi Arabia,1.843986686160966e-05
+"listed_in_Anime Series, TV Horror, TV Thrillers",1.8421647584660062e-05
+"country_United Kingdom, Germany",1.839789883620674e-05
+"country_France, United States",1.8219528151197188e-05
+"country_Germany, China, United Kingdom",1.7857988701544587e-05
+"country_United States, Colombia",1.7828034437011178e-05
+"listed_in_International Movies, Sports Movies",1.773695656838346e-05
+"listed_in_International Movies, Romantic Movies, Thrillers",1.7697486978216317e-05
+"country_Canada, United States, Ireland",1.7479373387863593e-05
+"listed_in_Documentaries, LGBTQ Movies, Sports Movies",1.6885591379987425e-05
+"listed_in_Crime TV Shows, International TV Shows, TV Thrillers",1.6803913216249133e-05
+"listed_in_British TV Shows, Kids' TV, TV Thrillers",1.679579975895603e-05
+"listed_in_Reality TV, Spanish-Language TV Shows",1.6237982713543082e-05
+"listed_in_Horror Movies, Sci-Fi & Fantasy, Thrillers",1.6077558563307144e-05
+"country_United States, Sweden",1.6053414295358494e-05
+"listed_in_Action & Adventure, International Movies, Music & Musicals",1.5524467906384336e-05
+"country_United Kingdom, United States, Ireland",1.5458703729779423e-05
+"listed_in_Classic Movies, Dramas, International Movies",1.5201188118730224e-05
+"country_Russia, Spain",1.515491892078748e-05
+"country_China, Spain, South Korea, United States",1.5071660153331931e-05
+"listed_in_Kids' TV, TV Sci-Fi & Fantasy",1.4896960057141738e-05
+country_Jordan,1.4698614915509102e-05
+"listed_in_Action & Adventure, Children & Family Movies, Dramas",1.46699944548081e-05
+"listed_in_Action & Adventure, Anime Features",1.4559459976330736e-05
+"country_United Kingdom, Australia",1.4489535324600105e-05
+country_Hungary,1.4396587173342324e-05
+"country_United Kingdom, United States, Czech Republic",1.4382286891092155e-05
+"country_Turkey, Azerbaijan",1.437062708277829e-05
+"listed_in_Comedies, Independent Movies, Thrillers",1.4263319727336048e-05
+"country_Hong Kong, China",1.4180907882583272e-05
+"listed_in_Classic Movies, Dramas",1.4147512560548697e-05
+"country_France, Germany",1.410668348570807e-05
+"country_Colombia, United States",1.3945637752033518e-05
+"country_Belgium, France",1.392012544059119e-05
+"country_Italy, South Africa, West Germany, Australia, United States",1.371243985791251e-05
+"country_United States, Mexico, Spain, Malta",1.3520512321806975e-05
+"listed_in_Action & Adventure, Cult Movies, International Movies",1.3506015339782434e-05
+country_Mauritius,1.3422132229642927e-05
+"country_United States, Netherlands, Japan, France",1.3381522914667748e-05
+"country_India, United States",1.3112308369196894e-05
+"listed_in_Dramas, Independent Movies, Sci-Fi & Fantasy",1.3032961022791468e-05
+country_Cameroon,1.2883842078265572e-05
+country_Kuwait,1.288231058143358e-05
+"country_Denmark, Singapore, Canada, United States",1.2795232333234267e-05
+rating_TV-Y7-FV,1.2592436333218386e-05
+"listed_in_Crime TV Shows, Romantic TV Shows, TV Dramas",1.2352443658254462e-05
+"country_Belgium, Netherlands",1.2246579047761218e-05
+"listed_in_Anime Series, Kids' TV, TV Action & Adventure",1.2232646506347518e-05
+"country_Spain, Germany",1.2048412308906672e-05
+"listed_in_Documentaries, Stand-Up Comedy",1.2035395599661018e-05
+"country_United States, France, South Korea, Indonesia",1.1993121212387255e-05
+"country_China, Taiwan",1.1968178985424634e-05
+"country_Germany, United States, Italy",1.1833160264951629e-05
+"listed_in_Comedies, Dramas, Music & Musicals",1.1529852140978204e-05
+"listed_in_Dramas, Music & Musicals",1.1460721871182386e-05
+"country_United States, India",1.1446646852701147e-05
+"country_Germany, Czech Republic",1.1435020431520094e-05
+"listed_in_Crime TV Shows, TV Action & Adventure, TV Thrillers",1.1429120128878047e-05
+"country_Argentina, Spain",1.1400544780181125e-05
+"listed_in_Children & Family Movies, Comedies, Sports Movies",1.0995598807466869e-05
+"country_United States, Italy",1.089023342239074e-05
+"listed_in_Dramas, Romantic Movies, Sports Movies",1.0859589660020197e-05
+"listed_in_Horror Movies, International Movies, Romantic Movies",1.044901063199318e-05
+"listed_in_TV Action & Adventure, TV Comedies, TV Dramas",1.0336356209144045e-05
+"listed_in_Comedies, Horror Movies",1.0299642728062356e-05
+"country_Canada, United States, United Kingdom, France, Luxembourg",1.0143554313213336e-05
+"country_Russia, United States",9.850433316055687e-06
+"country_Pakistan, United States",9.723943398094268e-06
+"country_Norway, Denmark",9.638472498836989e-06
+"listed_in_Crime TV Shows, TV Comedies, Teen TV Shows",9.614977509250183e-06
+"listed_in_Classic Movies, Comedies, Cult Movies",9.451614026598913e-06
+"listed_in_Classic Movies, Comedies, International Movies",9.404575431979144e-06
+"country_Italy, United States",9.382891814596718e-06
+country_Switzerland,9.186983996334073e-06
+"listed_in_Crime TV Shows, International TV Shows, TV Mysteries",9.084390923556536e-06
+"country_Taiwan, China",8.65977420247955e-06
+"country_United States, Argentina",8.625420927532092e-06
+"country_Saudi Arabia, Syria, Egypt, Lebanon, Kuwait",8.4654960039446e-06
+"listed_in_Children & Family Movies, Independent Movies",8.45557292821306e-06
+"country_United Kingdom, Italy",8.106121009934606e-06
+"country_Netherlands, Germany, Denmark, United Kingdom",8.020058286420022e-06
+"country_Canada, Japan, Netherlands",7.921810436785777e-06
+"listed_in_Docuseries, TV Sci-Fi & Fantasy",7.921615334240002e-06
+country_Senegal,7.876135775678582e-06
+"listed_in_Anime Features, Documentaries",7.682515162888125e-06
+"country_Spain, France",7.628086180939858e-06
+"country_Netherlands, Germany, Italy, Canada",7.486402973439766e-06
+"country_Italy, Germany",7.402503166046861e-06
+"listed_in_Action & Adventure, Documentaries, International Movies",7.3772738752367684e-06
+"country_France, Brazil, Spain, Belgium",7.2639966429402325e-06
+"country_Spain, Belgium, United States",7.199751381189978e-06
+"listed_in_International Movies, LGBTQ Movies, Romantic Movies",7.015900061075853e-06
+"country_Portugal, Spain",6.981027339514362e-06
+"country_United States, Australia",6.974608786804596e-06
+"country_Philippines, Singapore",6.942982934497695e-06
+"country_United States, Mexico, Colombia",6.925143055657774e-06
+"country_Slovenia, Croatia, Germany, Czech Republic, Qatar",6.897528115363847e-06
+"country_Canada, Australia",6.8565931749417504e-06
+"listed_in_Action & Adventure, Comedies, Romantic Movies",6.762994084944836e-06
+"listed_in_Sci-Fi & Fantasy, Thrillers",6.709749817760556e-06
+"country_Germany, United States",6.626219843824041e-06
+"listed_in_International TV Shows, TV Horror, TV Sci-Fi & Fantasy",6.625252441973861e-06
+"listed_in_Children & Family Movies, Comedies, Sci-Fi & Fantasy",6.5322229210073145e-06
+"country_United Kingdom, Ireland",6.531480599093247e-06
+"country_United States, Poland",6.530866843625515e-06
+"listed_in_Documentaries, Dramas",6.413580027032588e-06
+"listed_in_Dramas, Independent Movies, Sports Movies",6.198850682101962e-06
+"country_Spain, Italy",6.110131189882205e-06
+"country_Indonesia, United Kingdom",6.095791981759666e-06
+"listed_in_Comedies, International Movies, Sports Movies",5.940143325093026e-06
+"listed_in_Action & Adventure, Classic Movies, Comedies",5.793840419316988e-06
+country_Iceland,5.754931242873539e-06
+"listed_in_Action & Adventure, Horror Movies",5.665500557155544e-06
+"country_United Kingdom, United States, Spain, Germany, Greece, Canada",5.655231992133668e-06
+"listed_in_Action & Adventure, Independent Movies",5.542879375275422e-06
+"listed_in_Horror Movies, LGBTQ Movies, Music & Musicals",5.4307862427762435e-06
+country_Vietnam,5.3416289438952514e-06
+"country_South Africa, Nigeria",5.341370029189883e-06
+"country_United States, United Kingdom, India",5.24665276116944e-06
+"country_United Kingdom, France",5.208917313075287e-06
+"listed_in_Comedies, International Movies, Sci-Fi & Fantasy",5.146897784125132e-06
+"country_Egypt, Saudi Arabia",5.092136864849448e-06
+"country_South Korea, France",5.044157485459806e-06
+"country_India, Mexico",5.028861996624674e-06
+"listed_in_Children & Family Movies, Comedies, Cult Movies",5.0269217282650435e-06
+"listed_in_Anime Features, International Movies",4.93339207201916e-06
+"listed_in_Comedies, Music & Musicals",4.833045780724992e-06
+"country_United States, New Zealand",4.742152559789179e-06
+"country_Spain, United States",4.67464872585034e-06
+"listed_in_Children & Family Movies, Comedies, International Movies",4.629620289625203e-06
+"country_India, Germany, Austria",4.61207762809573e-06
+"country_United Kingdom, Malawi",4.564043201537459e-06
+"country_Germany, Australia, France, China",4.459149670050355e-06
+"country_United States, China, United Kingdom",4.362751793893002e-06
+"country_United States, France, Denmark",4.342141121398659e-06
+"listed_in_Documentaries, Horror Movies",4.269155236121478e-06
+"country_United States, Singapore",4.263400558033396e-06
+"listed_in_Dramas, Sci-Fi & Fantasy",4.2545943733479295e-06
+"country_Mexico, France, Colombia",4.082872896732231e-06
+"country_United Arab Emirates, Romania",4.053344485433385e-06
+"country_Spain, Argentina",4.0038509481344015e-06
+"country_France, Australia, Germany",3.983466037853254e-06
+"country_Mexico, Brazil",3.912859955536454e-06
+"country_Indonesia, United States",3.87569470212883e-06
+"listed_in_Comedies, Cult Movies",3.826918953418765e-06
+country_Croatia,3.7869588128519686e-06
+"country_United States, Chile",3.7562773505470128e-06
+"country_Poland, United States",3.7498795334933413e-06
+"listed_in_Comedies, Music & Musicals, Sports Movies",3.7489583152467785e-06
+"listed_in_TV Action & Adventure, TV Dramas, Teen TV Shows",3.7036035931029634e-06
+"listed_in_Comedies, Sports Movies",3.6783602927606248e-06
+"country_United States, China",3.6413007449344496e-06
+"country_Singapore, Malaysia",3.5397352258492246e-06
+"listed_in_Children & Family Movies, Dramas, Independent Movies",3.527753384255482e-06
+"listed_in_Comedies, LGBTQ Movies",3.509606758629369e-06
+"listed_in_Classic Movies, Cult Movies, Horror Movies",3.4537245448813214e-06
+"listed_in_TV Comedies, TV Horror, TV Thrillers",3.393121645506387e-06
+"country_Chile, Italy",3.3306766559444746e-06
+"country_Canada, Brazil",3.3229789076524475e-06
+"listed_in_Classic Movies, Dramas, Independent Movies",3.2880909101751437e-06
+"country_Denmark, France, Belgium, Italy, Netherlands, United States, United Kingdom",3.213764147690287e-06
+"listed_in_Classic Movies, Dramas, Music & Musicals",3.2132669311133942e-06
+"country_, South Korea",3.211401163583775e-06
+"listed_in_Comedies, Cult Movies, International Movies",3.196240775259404e-06
+country_Austria,3.1928424177989424e-06
+"listed_in_Action & Adventure, International Movies, Thrillers",3.1732218503082258e-06
+country_Bangladesh,3.094882573699987e-06
+"listed_in_Independent Movies, Sci-Fi & Fantasy, Thrillers",3.0078496667253946e-06
+"listed_in_Reality TV, TV Horror, TV Thrillers",2.9736721798663707e-06
+"country_United States, East Germany, West Germany",2.942587708253701e-06
+"country_United Kingdom, France, United States",2.857154330655572e-06
+"country_Italy, United Kingdom",2.8330919389732233e-06
+"country_Spain, Germany, Denmark, United States",2.802385548237039e-06
+country_Zimbabwe,2.8000511665118423e-06
+"country_Portugal, United States",2.771749826822533e-06
+"listed_in_Documentaries, Faith & Spirituality, Music & Musicals",2.7562896938741934e-06
+"country_China, Hong Kong",2.6365507742626038e-06
+"country_Chile, Brazil",2.58544466156519e-06
+"listed_in_Action & Adventure, Classic Movies, Dramas",2.560500356163293e-06
+"country_Germany, France",2.4743841717088927e-06
+rating_UR,2.462415604081104e-06
+country_Kenya,2.409872824543988e-06
+"listed_in_Comedies, Sci-Fi & Fantasy",2.404709224393355e-06
+"country_Philippines, United States",2.3983648063288608e-06
+"listed_in_Docuseries, Reality TV, Teen TV Shows",2.268873744599468e-06
+country_Uruguay,2.2530720880410638e-06
+"country_Nigeria, United Kingdom",2.154569089505333e-06
+"listed_in_Cult Movies, Horror Movies",2.1159097428136784e-06
+country_West Germany,2.102545652386281e-06
+"country_United Kingdom, France, Germany, Spain",2.0649944976981093e-06
+"country_Ireland, United States, France",2.0631549772352817e-06
+"country_Germany, United Kingdom",1.8517715835317308e-06
+country_Romania,1.829258277620634e-06
+listed_in_Romantic Movies,1.818741727855267e-06
+"listed_in_TV Action & Adventure, TV Horror, TV Sci-Fi & Fantasy",1.8152981545067395e-06
+"listed_in_Comedies, Faith & Spirituality, International Movies",1.8081164924926905e-06
+"country_Italy, United States, Argentina",1.7958627612677456e-06
+"listed_in_International Movies, Music & Musicals, Thrillers",1.7930284337782972e-06
+"country_United States, New Zealand, Japan",1.79088782225166e-06
+"listed_in_Children & Family Movies, Classic Movies, Comedies",1.7786423875626488e-06
+country_Mozambique,1.7712373826190025e-06
+"country_India, United Kingdom, France, Qatar",1.7304794758038472e-06
+"country_Italy, India",1.691687117898972e-06
+"listed_in_International TV Shows, Kids' TV, TV Mysteries",1.6834999994014855e-06
+"country_Norway, Denmark, Sweden",1.6480335829746584e-06
+"listed_in_Action & Adventure, International Movies, Sports Movies",1.6207731865859022e-06
+"listed_in_Comedies, Cult Movies, Dramas",1.5598863004282958e-06
+"country_United Kingdom, Hong Kong",1.5357730987939606e-06
+"country_United Kingdom, Japan, United States",1.5200928265455304e-06
+"country_Canada, United States, United Kingdom",1.5178574349222252e-06
+"listed_in_Horror Movies, Independent Movies, Sci-Fi & Fantasy",1.5167033787069443e-06
+"country_Romania, United Kingdom",1.5040761359168266e-06
+"country_France, United Kingdom, United States",1.4925379888239967e-06
+"country_Germany, United States, Sweden",1.486876682657951e-06
+"listed_in_Action & Adventure, Documentaries, Sports Movies",1.471229215015131e-06
+"country_Italy, France",1.466661614998963e-06
+"listed_in_Dramas, Faith & Spirituality, Independent Movies",1.4511128911265777e-06
+"listed_in_Dramas, Faith & Spirituality, Romantic Movies",1.4295168782513666e-06
+"country_United States, France, Canada",1.4222871686876927e-06
+"country_United States, Japan, Canada",1.3828673463448335e-06
+"country_United Kingdom, Canada, United States",1.3558935135240477e-06
+"listed_in_International Movies, Music & Musicals, Romantic Movies",1.3202884227834225e-06
+"country_Croatia, Slovenia, Serbia, Montenegro",1.2891775634897613e-06
+"country_Netherlands, Belgium",1.2840744738793159e-06
+"listed_in_Action & Adventure, Dramas, Faith & Spirituality",1.2573683654690334e-06
+country_Georgia,1.2311845853486475e-06
+"listed_in_Horror Movies, LGBTQ Movies",1.2119309130098025e-06
+"country_United Arab Emirates, United States",1.206871084230242e-06
+"listed_in_Dramas, Romantic Movies, Sci-Fi & Fantasy",1.1690854281608603e-06
+"country_France, Japan, United States",1.1639785647343477e-06
+"country_United States, Greece, United Kingdom",1.1564779863314868e-06
+"country_Chile, Spain, Argentina, Germany",1.1356591944308941e-06
+"listed_in_Comedies, Music & Musicals, Romantic Movies",1.1272157582701766e-06
+"country_United States, Australia, China",1.0523372232093737e-06
+"country_United States, Hungary",1.0510532137021558e-06
+"country_Uruguay, Argentina",1.0312502512555418e-06
+"country_Singapore, Japan, France",1.0270657605199298e-06
+"country_Spain, United Kingdom, United States",1.026539874809774e-06
+"country_United States, France, United Kingdom",9.65007459925651e-07
+"country_Lebanon, United States, United Arab Emirates",8.687080386927994e-07
+"country_Lebanon, Canada, France",8.429553218213666e-07
+"country_Spain, Belgium",8.064078848102889e-07
+"listed_in_Action & Adventure, Dramas, Sci-Fi & Fantasy",8.050571726451687e-07
+"country_United States, South Africa",7.863940892672033e-07
+"country_Netherlands, Denmark, South Africa",7.859729242164834e-07
+"country_Indonesia, Netherlands",7.816553185797614e-07
+"country_France, Belgium, Italy",7.771831312756686e-07
+"country_Taiwan, China, France, United States",7.703978969578647e-07
+"country_Hong Kong, Taiwan",7.612717040729233e-07
+"country_Pakistan, United Arab Emirates",7.611408097371611e-07
+"country_Sweden, United States",7.451926314410593e-07
+"listed_in_Action & Adventure, Comedies, Sci-Fi & Fantasy",7.154359414263717e-07
+"listed_in_Action & Adventure, Classic Movies, Cult Movies",6.978856432414611e-07
+"country_Denmark, United Kingdom, Sweden",6.870490840478654e-07
+"country_Italy, France, Switzerland",6.771195861429685e-07
+"listed_in_Action & Adventure, Children & Family Movies, Sci-Fi & Fantasy",6.319257456311319e-07
+"country_France, Lebanon",6.16491894221247e-07
+"listed_in_Action & Adventure, Classic Movies",6.005582353106813e-07
+"country_Argentina, Brazil, France, Poland, Germany, Denmark",6.000231457080088e-07
+"listed_in_Action & Adventure, Comedies, Cult Movies",5.901392545832078e-07
+"country_India, Nepal",5.685209205258848e-07
+"country_China, Morocco, Hong Kong",5.324842692016314e-07
+"country_Mexico, Finland",5.25166196416748e-07
+"country_Spain, Colombia",5.211275954827293e-07
+"country_Canada, Ireland, United States",5.197971821582896e-07
+"country_Lebanon, Palestine, Denmark, Qatar",5.050395839277204e-07
+"listed_in_Children & Family Movies, Documentaries, Sports Movies",4.922795716726519e-07
+"listed_in_Action & Adventure, Anime Features, Classic Movies",4.886801331061276e-07
+"country_United Kingdom, Canada, United States, Germany",4.882361552443116e-07
+"country_Mexico, Argentina",4.819541611251729e-07
+"country_Brazil, India, China, United States",4.815665381132427e-07
+"country_United States, Spain",4.6986149888869874e-07
+"country_India, France",4.63769720582988e-07
+"country_Israel, Germany, France",4.4943538467761145e-07
+"country_Canada, Norway",4.426012475618406e-07
+"country_France, Belgium, Luxembourg, Cambodia,",4.261703728924996e-07
+"country_China, United States, United Kingdom",4.251116813917366e-07
+"country_United Kingdom, Israel, Russia",4.240159637637294e-07
+"country_Canada, Japan, United States",4.202656339158018e-07
+"country_Spain, France, United States",4.1912280176578915e-07
+"country_Indonesia, Singapore",4.0075251122913114e-07
+"country_United States, Bermuda, Ecuador",3.691822004652366e-07
+"listed_in_Comedies, Horror Movies, Independent Movies",3.6450158693138885e-07
+"listed_in_Children & Family Movies, Classic Movies",3.6258831113940636e-07
+"listed_in_Children & Family Movies, Faith & Spirituality",3.5326495420374885e-07
+"country_Portugal, France, Poland, United States",3.3970496948827e-07
+"country_India, Pakistan",3.383710333612802e-07
+"listed_in_Comedies, Independent Movies, Music & Musicals",3.350895793784943e-07
+"country_United States, India, South Korea, China",3.172947834437756e-07
+"country_United Kingdom, Nigeria",3.113932116589805e-07
+"country_United Kingdom, Thailand",3.098446434999151e-07
+"country_Switzerland, Vatican City, Italy, Germany, France",2.99734195970275e-07
+"listed_in_Documentaries, LGBTQ Movies, Music & Musicals",2.879702178762497e-07
+"listed_in_Action & Adventure, Comedies, Sports Movies",2.7695373067555905e-07
+"listed_in_Comedies, Dramas, Faith & Spirituality",2.690881159874017e-07
+country_Ireland,2.650556253351931e-07
+"listed_in_Documentaries, Faith & Spirituality, International Movies",2.6185727930332125e-07
+"country_China, Germany, India, United States",2.5362241858459403e-07
+"listed_in_Action & Adventure, Children & Family Movies",2.5335529330237203e-07
+"listed_in_Classic Movies, Comedies, Music & Musicals",2.469143453676196e-07
+"country_India, Soviet Union",2.465613398853701e-07
+"country_United States, Hong Kong",2.451213628000924e-07
+"country_Australia, United Kingdom, United States, New Zealand, Italy, France",2.4184218122016205e-07
+"country_Italy, Switzerland, Albania, Poland",2.257963412413576e-07
+"country_, France, Algeria",2.0018237476709283e-07
+"country_United Kingdom, Poland, United States",1.7494298489600524e-07
+"listed_in_Classic Movies, Comedies, Independent Movies",1.739036067642202e-07
+"listed_in_Action & Adventure, Cult Movies, Sci-Fi & Fantasy",1.7108611568438853e-07
+"country_India, Germany",1.694282712269962e-07
+"listed_in_Action & Adventure, Classic Movies, Sci-Fi & Fantasy",1.6832081168771883e-07
+"country_United Kingdom, Egypt, United States",1.6779868964421402e-07
+"country_United Kingdom, Spain, Belgium",1.6772217169511387e-07
+"listed_in_Classic Movies, Music & Musicals",1.6545632837752967e-07
+"country_Serbia, South Korea, Slovenia",1.6296485943356276e-07
+"country_United Kingdom, Canada, Japan",1.6161220431962593e-07
+"country_United States, Venezuela",1.592578760393435e-07
+"country_Germany, Australia",1.5504395818550485e-07
+"country_China, India, Nepal",1.314513168271869e-07
+country_Namibia,1.3137306005438963e-07
+"listed_in_Children & Family Movies, Dramas, Music & Musicals",1.2336566872510534e-07
+"country_Ireland, Canada, Luxembourg, United States, United Kingdom, Philippines, India",1.1928454392911495e-07
+"country_Indonesia, South Korea, Singapore",1.1678562624060595e-07
+"country_United Kingdom, France, United States, Belgium",1.1005199825211743e-07
+"listed_in_Action & Adventure, Romantic Movies, Sci-Fi & Fantasy",1.061436892536312e-07
+"listed_in_Comedies, Dramas, LGBTQ Movies",1.0566201357075586e-07
+"country_France, Luxembourg, United States",1.0228440663462007e-07
+"country_France, Germany, Czech Republic, Belgium",9.643194180367684e-08
+"country_Egypt, Algeria",9.47273166509956e-08
+"listed_in_Classic Movies, Comedies, Dramas",9.336013884596237e-08
+"country_Norway, United Kingdom, France, Ireland",9.334961539718017e-08
+"country_India, Iran",8.365495953960268e-08
+"country_United Kingdom, India, United States",6.675715966042307e-08
+"country_Netherlands, United States",6.541034967054598e-08
+"listed_in_Children & Family Movies, Classic Movies, Dramas",6.353031368147187e-08
+"country_United States, Iceland",5.856229871989601e-08
+"country_United Kingdom, Canada, Italy",5.407462810361938e-08
+"country_United Kingdom, Czech Republic, United States, Germany, Bahamas",4.994009897344946e-08
+rating_84 min,4.993580418738869e-08
+"country_Denmark, Zimbabwe",4.6005933176706885e-08
+"country_Germany, United Kingdom, United States",4.462709140001864e-08
+"country_Canada, France, Italy, Morocco, United States",4.34999925350102e-08
+"country_Venezuela, Colombia",4.29169354237297e-08
+"listed_in_Action & Adventure, Children & Family Movies, Classic Movies",4.081247952808604e-08
+"country_Greece, United States",3.81600158948744e-08
+"country_Lebanon, United Arab Emirates, France, Switzerland, Germany",3.7559942813058484e-08
+"country_Ireland, United Kingdom",3.154014227432799e-08
+"country_Pakistan, Norway, United States",2.845000419581608e-08
+"country_Germany, France, Luxembourg, United Kingdom, United States",2.654698629575691e-08
+country_Ghana,2.5719430593982696e-08
+"country_United Kingdom, France, Germany, United States",2.515934362614651e-08
+"country_Canada, Nigeria",2.302286028784487e-08
+"country_Spain, Thailand, United States",2.219733303325532e-08
+"country_Germany, United States, United Kingdom, Canada",2.217598701961518e-08
+"country_Argentina, Chile",2.1643376043284517e-08
+"country_Norway, Germany",2.1162412131253552e-08
+"listed_in_Action & Adventure, Thrillers",2.0946614737378628e-08
+"country_Ireland, South Africa",1.8593672846026066e-08
+"country_South Africa, United States",1.6223799899062865e-08
+"country_Serbia, United States",1.60587822091766e-08
+"country_India, United Kingdom",1.578856578628254e-08
+"country_France, Japan",1.5321229923013208e-08
+"listed_in_Action & Adventure, Horror Movies, Thrillers",1.4865189767330223e-08
+"country_Brazil, France",1.4636390654581221e-08
+"country_Canada, India",1.4466194064790759e-08
+"country_Turkey, India",1.3496096189530886e-08
+"listed_in_Comedies, LGBTQ Movies, Thrillers",1.3072430341422586e-08
+country_Cambodia,1.1719299212222935e-08
+"listed_in_Cult Movies, Horror Movies, Independent Movies",1.1524188636194386e-08
+"country_France, Senegal, Belgium",1.0876614552934184e-08
+"country_United Kingdom, Italy, Israel, Peru, United States",1.0834122118366763e-08
+"country_Sweden, United Kingdom, Finland",1.0765706521120888e-08
+"country_China, Canada, United States",8.800290351516401e-09
+"country_Belgium, France, Netherlands",8.767944167121728e-09
+"country_Netherlands, Belgium, United Kingdom, United States",8.385304545391941e-09
+"country_United Kingdom, India",6.579275498416168e-09
+"country_Russia, United States, China",5.6075174445740026e-09
+"country_Chile, Argentina, France, Spain, United States",4.419242809353198e-09
+"country_United States, Nicaragua",3.7117808182871713e-09
+"listed_in_Action & Adventure, Horror Movies, Sci-Fi & Fantasy",3.489280862531218e-09
+"country_France, Netherlands, South Africa, Finland",3.4540603975898998e-09
+"listed_in_Cult Movies, Independent Movies, Thrillers",2.94101347709193e-09
+"country_United Kingdom, Brazil, Germany",2.7293026978321128e-09
+"country_Hong Kong, United States",2.5697253596216376e-09
+"listed_in_Action & Adventure, Cult Movies, Dramas",2.488549865218614e-09
+"country_United Kingdom, Poland",2.4398469627000293e-09
+"country_Spain, Mexico",2.2014405346965167e-09
+"country_Mexico, Netherlands",2.1960182241955183e-09
+"country_United States, Canada, France",1.9702113276751095e-09
+"country_United States, China, Colombia",1.4902622241036076e-09
+"country_United States, Germany",1.4716098246473593e-09
+"country_Hong Kong, China, Singapore",1.4227447081706252e-09
+"country_France, Canada, United States",1.4195175189093003e-09
+"country_United Kingdom, China, United States, India",1.3991482821789233e-09
+"country_France, Luxembourg, Canada",1.1755224589271803e-09
+"country_United States, Russia",9.859822265379887e-10
+"listed_in_Classic Movies, Cult Movies, Dramas",9.837111490674205e-10
+"country_United States, United Kingdom, Germany",9.822778708637962e-10
+"listed_in_Classic Movies, Dramas, Sports Movies",8.1128112981842e-10
+"listed_in_Classic Movies, Independent Movies, Thrillers",7.359246907660273e-10
+"listed_in_Classic Movies, Dramas, Romantic Movies",7.064873372592152e-10
+"listed_in_Dramas, Music & Musicals, Romantic Movies",6.87733013732716e-10
+"listed_in_Comedies, Faith & Spirituality, Romantic Movies",6.232737204785056e-10
+"country_United States, United Kingdom, France",5.450574687720302e-10
+"country_United Kingdom, France, United States, Belgium, Luxembourg, China, Germany",5.299110004817197e-10
+"country_South Korea, Japan",4.92138155768862e-10
+"country_South Africa, China, United States",4.756144406861851e-10
+"country_United States, China, Hong Kong",4.4425142627888707e-10
+"country_Germany, United States, France",4.156815755863411e-10
+"country_United States, Canada, Belgium, United Kingdom",4.098509345991877e-10
+"country_Colombia, Mexico",4.041669793900194e-10
+"country_South Korea, Czech Republic",3.988088397039802e-10
+"country_United States, India, United Kingdom",3.9039666681287074e-10
+"country_Italy, United Kingdom, France",3.7558372478264e-10
+"country_Denmark, France, United States, Sweden",3.258789696371056e-10
+"country_United States, Canada, Germany",3.055055802020744e-10
+"country_United Kingdom, France, Belgium, Ireland, United States",2.804512467022064e-10
+"country_Ireland, United Kingdom, Greece, France, Netherlands",2.784231416222716e-10
+"country_United Kingdom, United States, Australia",2.7458771489579834e-10
+"country_Saudi Arabia, Netherlands, Germany, Jordan, United Arab Emirates, United States",2.6545147143213464e-10
+"listed_in_Comedies, Cult Movies, Music & Musicals",2.4986447467241464e-10
+"country_Ireland, Luxembourg, Belgium",2.436556285442706e-10
+"country_United States, Thailand",2.3599445142496734e-10
+"country_Germany, Canada, United States",2.33610622349861e-10
+"country_Canada, Luxembourg",2.092598507139395e-10
+"country_Spain, Canada, United States",2.0792400701021595e-10
+"country_United States, Bulgaria",1.8195399895588394e-10
+"country_United Kingdom, Russia, United States",1.6769658883143058e-10
+"country_Brazil, United Kingdom",1.6304294746671416e-10
+"country_Denmark, Spain",1.42505657643063e-10
+"country_South Africa, United States, Japan",1.3802001081194464e-10
+"country_United States, Australia, Mexico",1.31357057827987e-10
+country_Bulgaria,1.2253956459515328e-10
+"country_Canada, United States, India, United Kingdom",1.1684495855962988e-10
+"listed_in_Dramas, Horror Movies, Music & Musicals",1.108249238662201e-10
+"listed_in_Classic Movies, Thrillers",1.0421942830084736e-10
+"country_United States, United Kingdom, Italy",8.430483234178042e-11
+"country_France, Lebanon, United Kingdom",8.037581827469247e-11
+"country_United States, United Kingdom, Germany, Hungary",7.556972132192608e-11
+"country_United Kingdom, South Korea",7.072691185373486e-11
+rating_74 min,6.296045291564768e-11
+"country_United Kingdom, Spain, United States, Germany",6.272619303382492e-11
+"country_United Kingdom, South Africa",5.588737983298317e-11
+"country_Canada, Spain, France",5.134194261599596e-11
+"country_Ireland, United States",4.6557609367027975e-11
+"country_Turkey, United States",4.6134904100974493e-11
+"country_United States, Germany, Canada",3.782222942479405e-11
+"country_Norway, Iceland, United States",3.004512465153982e-11
+"country_Ireland, Canada, United Kingdom, United States",2.7543233877139017e-11
+"country_Hong Kong, China, United States",2.4401240793292144e-11
+"listed_in_Action & Adventure, Children & Family Movies, Independent Movies",2.0741105191942652e-11
+"listed_in_Classic Movies, Horror Movies, Thrillers",2.0282704152571312e-11
+"country_United States, Italy, France, Japan",2.0233018492701642e-11
+"country_South Korea, China, United States",5.048164813038084e-12
+"country_United Kingdom, Canada, United States, Cayman Islands",0.0
+"country_United Kingdom, Canada, France, United States",0.0
+"country_United Kingdom, Belgium, Sweden",0.0
+"country_United Kingdom, Belgium",0.0
+"country_United Kingdom, Australia, United States",0.0
+"listed_in_Action & Adventure, Sci-Fi & Fantasy, Thrillers",0.0
+"listed_in_Action & Adventure, Sci-Fi & Fantasy, Sports Movies",0.0
+"country_Poland, West Germany",0.0
+"country_Poland,",0.0
+"country_Colombia, Peru, United Kingdom",0.0
+"country_China, United States, Canada",0.0
+"country_China, United States, Australia",0.0
+"country_China, United States",0.0
+"country_Somalia, Kenya, Sudan, South Africa, United States",0.0
+"country_Singapore, United States",0.0
+rating_66 min,0.0
+"listed_in_TV Comedies, TV Dramas, TV Sci-Fi & Fantasy",0.0
+"listed_in_TV Action & Adventure, TV Dramas, TV Horror",0.0
+"listed_in_TV Action & Adventure, TV Comedies",0.0
+listed_in_Sports Movies,0.0
+"country_Denmark, China",0.0
+"country_Chile, Peru",0.0
+"country_Chile, France",0.0
+"country_Chile, Argentina",0.0
+"listed_in_Anime Series, International TV Shows, Spanish-Language TV Shows",0.0
+"listed_in_Anime Series, Crime TV Shows, TV Horror",0.0
+"country_Russia, Poland, Serbia",0.0
+"country_Romania, United States",0.0
+"country_Romania, France, Switzerland, Germany",0.0
+"country_Romania, Bulgaria, Hungary",0.0
+"country_Puerto Rico, United States, Colombia",0.0
+"country_Singapore, France",0.0
+"country_Saudi Arabia, United Arab Emirates",0.0
+"country_China, South Korea, United States",0.0
+"country_China, Japan",0.0
+"listed_in_Action & Adventure, Sports Movies",0.0
+"country_South Korea, China",0.0
+"country_South Africa, United States, New Zealand, Canada",0.0
+"country_South Africa, United States, Germany",0.0
+"country_South Africa, Germany, Netherlands, France",0.0
+"country_Philippines, Singapore, Indonesia",0.0
+"country_Philippines, Qatar",0.0
+"country_Philippines, Canada, United Kingdom, United States",0.0
+"country_Peru, United States, United Kingdom",0.0
+"country_Peru, Germany, Norway",0.0
+country_Peru,0.0
+"country_Paraguay, Argentina",0.0
+"country_Denmark, Germany, Belgium, United Kingdom, France, Sweden",0.0
+"country_Denmark, Germany, Belgium, United Kingdom, France",0.0
+"country_Denmark, France, Poland",0.0
+"listed_in_Children & Family Movies, Comedies, Faith & Spirituality",0.0
+"country_China, Hong Kong, United States",0.0
+"country_Chile, United States, France",0.0
+"listed_in_Action & Adventure, Comedies, Music & Musicals",0.0
+"listed_in_Action & Adventure, Comedies, Horror Movies",0.0
+"listed_in_Action & Adventure, Classic Movies, International Movies",0.0
+"listed_in_Action & Adventure, Children & Family Movies, Cult Movies",0.0
+"country_South Africa, Angola",0.0
+"listed_in_Action & Adventure, Horror Movies, Independent Movies",0.0
+"listed_in_Action & Adventure, Faith & Spirituality, Sci-Fi & Fantasy",0.0
+"listed_in_Action & Adventure, Dramas, Sports Movies",0.0
+"listed_in_Action & Adventure, Dramas, Romantic Movies",0.0
+"listed_in_Action & Adventure, Cult Movies",0.0
+"listed_in_Action & Adventure, Romantic Movies",0.0
+"country_Soviet Union, India",0.0
+"country_New Zealand, United Kingdom",0.0
+"country_New Zealand, Australia, France, United States",0.0
+"country_Denmark, Brazil, France, Portugal, Sweden",0.0
+"country_Czech Republic, United States",0.0
+"country_Czech Republic, United Kingdom, United States",0.0
+"country_Czech Republic, United Kingdom, France",0.0
+"country_Czech Republic, Slovakia",0.0
+"country_Czech Republic, France",0.0
+"country_Norway, Sweden",0.0
+"country_Spain, France, Uruguay",0.0
+"country_Spain, France, United Kingdom, United States",0.0
+"country_Spain, France, Italy",0.0
+"country_Spain, France, Canada, United States",0.0
+"country_Spain, France, Canada",0.0
+"country_Spain, Cuba",0.0
+"country_Uruguay, Argentina, Germany, Spain",0.0
+"country_United States, Uruguay",0.0
+"country_United States, United Kingdom, Spain, South Korea",0.0
+"country_United States, United Kingdom, New Zealand",0.0
+"country_United States, United Kingdom, Morocco",0.0
+"country_United States, United Kingdom, Japan",0.0
+"listed_in_Classic Movies, Cult Movies, Documentaries",0.0
+"listed_in_Classic Movies, Comedies, Sports Movies",0.0
+"listed_in_Classic Movies, Comedies, Romantic Movies",0.0
+"listed_in_Classic & Cult TV, TV Sci-Fi & Fantasy",0.0
+"listed_in_Classic & Cult TV, Crime TV Shows, TV Dramas",0.0
+"listed_in_Children & Family Movies, Faith & Spirituality, Music & Musicals",0.0
+"country_Norway, Germany, Sweden",0.0
+"country_Norway, Denmark, Netherlands, Sweden",0.0
+"country_New Zealand, United States",0.0
+"country_New Zealand, United Kingdom, Australia",0.0
+"country_United States, United Kingdom, Canada",0.0
+"country_United States, United Kingdom, Australia",0.0
+"country_United States, United Arab Emirates",0.0
+"country_United States, Taiwan",0.0
+"country_United States, Switzerland",0.0
+"country_United States, Sweden, Norway",0.0
+"listed_in_Comedies, Cult Movies, LGBTQ Movies",0.0
+"listed_in_Comedies, Cult Movies, Horror Movies",0.0
+"listed_in_Classic Movies, Dramas, LGBTQ Movies",0.0
+country_Venezuela,0.0
+"country_Uruguay, Spain, Mexico",0.0
+"country_Uruguay, Guatemala",0.0
+"country_Uruguay, Germany",0.0
+"country_Uruguay, Argentina, Spain",0.0
+"country_United States, Nigeria",0.0
+"country_United States, New Zealand, United Kingdom",0.0
+"country_United States, Morocco",0.0
+"country_Netherlands, Belgium, Germany, Jordan",0.0
+"country_Mexico, United States, Spain, Colombia",0.0
+"country_Mexico, Spain",0.0
+"country_Mexico, France",0.0
+"listed_in_Comedies, Documentaries, International Movies",0.0
+"listed_in_Comedies, Cult Movies, Sports Movies",0.0
+"listed_in_Comedies, Cult Movies, Sci-Fi & Fantasy",0.0
+"country_United States, United Kingdom, France, Germany, Japan",0.0
+"country_United States, United Kingdom, Denmark, Sweden",0.0
+"country_United States, United Kingdom, Canada, Japan",0.0
+"country_United States, United Kingdom, Canada, China",0.0
+"country_Sweden, Netherlands",0.0
+"country_Sweden, Czech Republic, United Kingdom, Denmark, Netherlands",0.0
+"country_Spain, Switzerland",0.0
+"country_Spain, Portugal",0.0
+"country_Spain, Mexico, France",0.0
+"country_Spain, Italy, Argentina",0.0
+"country_Canada, South Africa",0.0
+"listed_in_Comedies, LGBTQ Movies, Music & Musicals",0.0
+"listed_in_Comedies, Horror Movies, Sci-Fi & Fantasy",0.0
+"listed_in_Comedies, Dramas, Sports Movies",0.0
+"country_Netherlands, Denmark, France, Germany",0.0
+"country_United States, Spain, Germany",0.0
+"country_United States, South Korea, Japan",0.0
+"country_United States, Senegal",0.0
+"country_United States, Philippines",0.0
+"country_United States, Norway, Canada",0.0
+"country_United States, India, France",0.0
+"country_United States, India, Bangladesh",0.0
+"country_United States, Greece, Brazil",0.0
+"country_Canada, United States, Germany",0.0
+"country_Canada, United States, Denmark",0.0
+"country_Mauritius, South Africa",0.0
+country_Luxembourg,0.0
+"country_Lebanon, United Arab Emirates",0.0
+"country_Lebanon, Qatar",0.0
+"country_Lebanon, France",0.0
+"country_Kuwait, United States",0.0
+"country_Canada, United Kingdom, Netherlands",0.0
+"country_Canada, Spain",0.0
+"country_Canada, South Korea, United States",0.0
+"country_United States, Malta, France, United Kingdom",0.0
+"listed_in_Crime TV Shows, Romantic TV Shows, Spanish-Language TV Shows",0.0
+"listed_in_Crime TV Shows, International TV Shows, Reality TV",0.0
+"country_Kenya, United States",0.0
+"country_Jamaica, United States",0.0
+"country_Italy, Turkey",0.0
+"country_Italy, Switzerland, France, Germany",0.0
+"listed_in_Comedies, Romantic Movies, Sports Movies",0.0
+"country_Canada, United States, Mexico",0.0
+"country_United States, Italy, United Kingdom, Liechtenstein",0.0
+"country_United States, Italy, Romania, United Kingdom",0.0
+"country_United States, Israel, United Kingdom, Canada",0.0
+"country_United States, Ireland, United Kingdom, India",0.0
+"country_United States, Indonesia",0.0
+"country_United States, India, United Arab Emirates",0.0
+"country_United States, Germany, United Kingdom",0.0
+"country_United States, Germany, Mexico",0.0
+"country_United States, Germany, Australia",0.0
+"country_United States, France, United Kingdom, Japan",0.0
+"country_United States, France, Serbia",0.0
+"country_United States, France, Mexico",0.0
+"country_United States, France, Italy, United Kingdom",0.0
+"country_United States, France, Canada, Spain",0.0
+"listed_in_Cult Movies, Dramas, International Movies",0.0
+"listed_in_Crime TV Shows, TV Horror, TV Mysteries",0.0
+"country_Italy, Canada, France",0.0
+"country_Italy, Belgium",0.0
+"country_Israel, Sweden, Germany, Netherlands",0.0
+"country_Israel, Germany, Poland, Luxembourg, Belgium, France, United States",0.0
+"country_Israel, Germany",0.0
+"country_United States, Chile, Israel",0.0
+"country_United States, Canada, United Kingdom",0.0
+"country_United States, Canada, Japan, Panama",0.0
+"country_United States, Canada, Ireland",0.0
+"country_Canada, India, Thailand, United States, United Arab Emirates",0.0
+"country_Canada, Hungary, United States",0.0
+"country_Canada, Germany, France, United States",0.0
+"country_Canada, Germany",0.0
+"country_Canada, France, United States",0.0
+"listed_in_Cult Movies, Horror Movies, Thrillers",0.0
+"listed_in_Cult Movies, Dramas, Thrillers",0.0
+"listed_in_Cult Movies, Dramas, Music & Musicals",0.0
+"country_United States, Greece",0.0
+"country_United States, Ghana, Burkina Faso, United Kingdom, Germany, Ethiopia",0.0
+"country_United States, Germany, United Kingdom, Italy",0.0
+"country_United States, Germany, United Kingdom, Australia",0.0
+"country_Switzerland, United States",0.0
+"country_Switzerland, United Kingdom, United States",0.0
+"country_Switzerland, United Kingdom, Australia",0.0
+"country_Switzerland, France, Belgium, United States",0.0
+"country_Switzerland, France",0.0
+"country_Ireland, Switzerland, United Kingdom, France, United States",0.0
+"country_Ireland, France, Iceland, United States, Mexico, Belgium, United Kingdom, Hong Kong",0.0
+"country_Finland, Germany",0.0
+"country_Iran, France",0.0
+"country_Canada, Nigeria, United States",0.0
+"country_Canada, Mexico, Germany, South Africa",0.0
+"country_United States, France, Canada, Lebanon, Qatar",0.0
+"country_United States, France, Canada, Belgium",0.0
+"country_United States, Denmark",0.0
+"country_United States, Czech Republic, United Kingdom",0.0
+"country_United States, China, Canada",0.0
+"country_Brazil, Netherlands, United States, Colombia, Austria, Germany",0.0
+"country_Brazil, France, Germany",0.0
+"listed_in_Dramas, Horror Movies, Thrillers",0.0
+"listed_in_Dramas, Horror Movies, Sci-Fi & Fantasy",0.0
+"country_Finland, France",0.0
+"listed_in_Dramas, Faith & Spirituality, Sports Movies",0.0
+country_Finland,0.0
+"country_Ireland, United Kingdom, Italy, United States",0.0
+"country_Ireland, United Kingdom, France, Germany",0.0
+"country_United States, Canada, Indonesia, United Kingdom, China, Singapore",0.0
+"country_Thailand, United States",0.0
+"country_Thailand, China, United States",0.0
+"country_Thailand, Canada, United States",0.0
+"country_Taiwan, Malaysia",0.0
+"country_Taiwan, Hong Kong, United States, China",0.0
+"country_Syria, France, Lebanon, Qatar",0.0
+"country_India, United Kingdom, China, Canada, Japan, South Korea, United States",0.0
+"country_India, United Kingdom, Canada, United States",0.0
+"country_India, Turkey",0.0
+"country_India, Switzerland",0.0
+"country_Brazil, United States",0.0
+"country_United States, Canada, China",0.0
+"country_United States, Cambodia, Romania",0.0
+"country_United States, Cambodia",0.0
+"country_United States, Brazil, Japan, Spain, India",0.0
+"country_United States, Brazil, India, Uganda, China",0.0
+"country_United States, Brazil",0.0
+"country_United States, Botswana",0.0
+"country_United States, Belgium, Canada, France",0.0
+"country_United States, Australia, South Africa, United Kingdom",0.0
+"country_United States, Australia, Samoa, United Kingdom",0.0
+"country_Egypt, France",0.0
+"country_United Kingdom, United States, Germany, Denmark, Belgium, Japan",0.0
+"country_United Kingdom, United States, France, Italy",0.0
+"country_United Kingdom, United States, France, Germany",0.0
+"country_United Kingdom, United States, France",0.0
+"country_United Kingdom, United States, Dominican Republic",0.0
+"country_United Kingdom, United States, Canada",0.0
+"country_United Kingdom, Ukraine, United States",0.0
+"country_Egypt, Denmark, Germany",0.0
+"country_United Kingdom, Spain, United States",0.0
+"country_Hong Kong, Iceland, United States",0.0
+"listed_in_Dramas, LGBTQ Movies, Romantic Movies",0.0
+"country_Canada, Belgium",0.0
+"country_Cambodia, United States",0.0
+"country_Bulgaria, United States, Spain, Canada",0.0
+"country_Bulgaria, United States",0.0
+"country_Egypt, Austria, United States",0.0
+"country_United Kingdom, New Zealand",0.0
+"country_United Kingdom, Namibia, South Africa, Zimbabwe, United States",0.0
+"country_United Kingdom, Lithuania",0.0
+"country_United Kingdom, Kenya",0.0
+"country_United Kingdom, Jordan, Qatar, Iran",0.0
+"listed_in_Horror Movies, International Movies, Sci-Fi & Fantasy",0.0
+"country_India, Malaysia",0.0
+"country_India, Japan",0.0
+"country_India, Germany, France",0.0
+"country_India, Canada",0.0
+"country_India, Australia",0.0
+"country_Iceland, Sweden, Belgium",0.0
+"country_Hungary, United States",0.0
+"country_United States,",0.0
+"country_United Kingdom, United States, Morocco",0.0
+"country_United Kingdom, United States, Japan",0.0
+"country_United Kingdom, Germany, United Arab Emirates, New Zealand",0.0
+"country_United Kingdom, Germany, Spain, United States",0.0
+"country_United Kingdom, Germany, France, United States",0.0
+"country_United Kingdom, Germany, Canada, United States",0.0
+country_Guatemala,0.0
+"country_Ghana, United States",0.0
+"country_Germany, United States, Hong Kong, Singapore",0.0
+"country_Germany, United States, Canada",0.0
+listed_in_Independent Movies,0.0
+"listed_in_Horror Movies, Romantic Movies, Sci-Fi & Fantasy",0.0
+"country_Denmark, United Kingdom, South Africa, Sweden, Belgium",0.0
+"country_United Kingdom, South Africa, France",0.0
+"country_France, China, Japan, United States",0.0
+"country_United Kingdom, Russia",0.0
+"country_United Kingdom, Pakistan",0.0
+"country_United Kingdom, Norway, Denmark, Germany, Sweden",0.0
+"country_Austria, United States",0.0
+"country_Austria, Iraq, United States",0.0
+"country_Germany, Sri Lanka",0.0
+"country_Germany, Jordan, Netherlands",0.0
+"country_Germany, Italy",0.0
+"country_Germany, France, United States, Canada, United Kingdom",0.0
+"country_Germany, Belgium",0.0
+"country_Austria, Germany",0.0
+"country_Austria, Czech Republic",0.0
+"country_France, Canada, United States, Spain",0.0
+"country_Hong Kong, Canada, United States",0.0
+"country_United Kingdom, Japan",0.0
+"country_United Kingdom, India, Sweden",0.0
+"country_United Kingdom, Hungary, Australia",0.0
+"country_United Kingdom, Germany, United States, France",0.0
+"country_United Kingdom, Germany, United States",0.0
+"country_United Kingdom,",0.0
+"country_United Arab Emirates, United States, United Kingdom",0.0
+"country_United Arab Emirates, United Kingdom, India",0.0
+"country_United Arab Emirates, Jordan, Lebanon, Saudi Arabia",0.0
+"country_United Arab Emirates, Jordan",0.0
+"country_United Kingdom, China, United States",0.0
+"country_Turkey, South Korea",0.0
+"country_Turkey, France, Germany, Poland",0.0
+"country_France, Switzerland, Spain, United States, United Arab Emirates",0.0
+"country_France, South Korea, Japan",0.0
+"country_France, Qatar",0.0
+"country_France, Norway, Lebanon, Belgium",0.0
+"country_France, New Zealand",0.0
+"country_Belgium, United Kingdom, United States",0.0
+"country_Belgium, United Kingdom",0.0
+"country_Belgium, Ireland, Netherlands, Germany, Afghanistan",0.0
+"country_Australia, United Kingdom",0.0
+"country_Australia, United Arab Emirates",0.0
+"country_Australia, Iraq",0.0
+"country_Australia, India",0.0
+"country_Australia, France, Ireland",0.0
+"country_Australia, France",0.0
+"country_Australia, Armenia, Japan, Jordan, Mexico, Mongolia, New Zealand, Philippines, South Africa, Sweden, United States, Uruguay",0.0
+"country_Argentina, Venezuela",0.0
+"listed_in_International TV Shows, TV Action & Adventure, TV Mysteries",0.0
+"listed_in_International TV Shows, Romantic TV Shows, TV Mysteries",0.0
+"country_Georgia, Germany, France",0.0
+"country_France, United States, United Kingdom, Canada",0.0
+"country_France, United States, Mexico",0.0
+"country_France, United Kingdom, India",0.0
+"country_United Kingdom, Germany, Canada",0.0
+"country_United Kingdom, Australia, Canada, United States",0.0
+"country_United Kingdom, France, Poland, Germany, United States",0.0
+"country_United Kingdom, France, Germany",0.0
+"country_United Kingdom, France, Canada, Belgium, United States",0.0
+"country_United Kingdom, France, Belgium, United States",0.0
+"country_United Kingdom, France, Belgium, Canada, United States",0.0
+"country_United Kingdom, France, Belgium",0.0
+"country_United Kingdom, Denmark, Canada, Croatia",0.0
+"country_United Kingdom, Czech Republic, Germany, United States",0.0
+"country_United Kingdom, China",0.0
+"country_France, Israel, Germany, United States, United Kingdom",0.0
+"country_France, Iran, United States",0.0
+"country_France, Germany, Switzerland",0.0
+"country_France, Egypt",0.0
+"listed_in_Kids' TV, Reality TV, Science & Nature TV",0.0
+"country_Australia, United Kingdom, United Arab Emirates, Canada",0.0
+"country_Australia, United Kingdom, Canada",0.0
+"country_France, Algeria",0.0
+"country_Finland, United States",0.0
+"country_Finland, Sweden, Norway, Latvia, Germany",0.0
+"country_Finland, Germany, Belgium",0.0
+"country_Argentina, Uruguay, Spain, France",0.0
+"country_Argentina, Uruguay, Serbia",0.0
+"country_Argentina, United States, Mexico",0.0
+"country_Argentina, United States",0.0
+"country_Argentina, Italy",0.0
+"country_Argentina, France, United States, Germany, Qatar",0.0
+"country_Argentina, France",0.0
+"country_Argentina, Chile, Peru",0.0
+"country_Denmark, Sweden, Israel, United States",0.0
+"country_Denmark, Indonesia, Finland, Norway, United Kingdom, Israel, France, United States, Germany, Netherlands",0.0
+"listed_in_TV Horror, TV Mysteries, Teen TV Shows",0.0
+rating_NC-17,0.0
+"country_United Kingdom, Australia, France, United States",0.0
+"country_United Kingdom, Australia, France",0.0
+"listed_in_TV Comedies, TV Dramas, TV Horror",0.0
+"country_France, Canada, Italy, United States, China",0.0
+"country_France, Canada, China, Cambodia",0.0
+"country_France, Canada, Belgium",0.0
+"country_France, Belgium, United States",0.0
+"country_France, Belgium, Spain",0.0
+"country_France, Belgium, Luxembourg, Romania, Canada, United States",0.0
+"country_France, Belgium, China, United States",0.0
+"listed_in_Music & Musicals, Romantic Movies",0.0
+"listed_in_LGBTQ Movies, Thrillers",0.0
+"country_France, Netherlands, Singapore",0.0
+"country_France, Morocco",0.0
+"country_France, Malta, United States",0.0
+"country_United Kingdom, France, Spain, United States",0.0
