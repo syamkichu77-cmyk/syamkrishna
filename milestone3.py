@@ -9,10 +9,14 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 import joblib as joblib
 >>>>>>> 7c043f7 (Initial commit)
+=======
+import joblib as joblib
+>>>>>>> 7c043f73110a5241398be96c335668b4c8205d76
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
@@ -29,10 +33,14 @@ from sklearn.metrics import (
 # ==========================================
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 df = pd.read_csv("cleaned_netflix_titles.csv")
 =======
 df = pd.read_csv("netflix_titles.csv")
 >>>>>>> 7c043f7 (Initial commit)
+=======
+df = pd.read_csv("netflix_titles.csv")
+>>>>>>> 7c043f73110a5241398be96c335668b4c8205d76
 
 print(df.head())
 print(df.info())
@@ -113,11 +121,17 @@ df["Cluster"]  = clusters
 # Save cluster labels
 df["Cluster"] = clusters
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 joblib.dump(kmeans, "clustering_model.pkl")
 print("Clustering model saved successfully.")
 
 >>>>>>> 7c043f7 (Initial commit)
+=======
+joblib.dump(kmeans, "clustering_model.pkl")
+print("Clustering model saved successfully.")
+
+>>>>>>> 7c043f73110a5241398be96c335668b4c8205d76
 
 # ==========================================
 # Cluster Summary
@@ -219,14 +233,20 @@ plt.ylabel("Actual")
 plt.savefig("confusion_matrix.png")
 plt.show()
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 joblib.dump(model, "classification_model.pkl")
 print("Classification model saved successfully.")
 >>>>>>> 7c043f7 (Initial commit)
+=======
+joblib.dump(model, "classification_model.pkl")
+print("Classification model saved successfully.")
+>>>>>>> 7c043f73110a5241398be96c335668b4c8205d76
 
 # ==========================================
 # Feature Importance
 # ==========================================
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 importance = pd.Series(
@@ -249,6 +269,8 @@ plt.show()
 print("\nTop Important Features")
 print(importance.head(15))
 =======
+=======
+>>>>>>> 7c043f73110a5241398be96c335668b4c8205d76
 importance = pd.DataFrame({
     "Feature": X_train.columns,
     "Importance": model.feature_importances_
@@ -265,7 +287,10 @@ importance.to_csv(
 )
 
 print("Feature importance saved.")
+<<<<<<< HEAD
 >>>>>>> 7c043f7 (Initial commit)
+=======
+>>>>>>> 7c043f73110a5241398be96c335668b4c8205d76
 
 # ==========================================
 # Save Final Dataset
