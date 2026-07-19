@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+px
+matplotlib
+scikit-learn
+joblib
+wordcloud
